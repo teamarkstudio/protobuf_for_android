@@ -1,0 +1,1 @@
+###### This is protobuf 3.2 for android, including visual studio 2015 cross platform project, compile on your own or use pre-compiled version in libs folder.
